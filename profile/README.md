@@ -3,9 +3,9 @@
 
 <p align="center">
 <a href="https://github.com/HardDevInfo">
-  <img src="https://github-readme-stats.vercel.app/api/?username=harddevinfo&count_private=true&show_icons=true&theme=dark"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/?username=harddevinfo&count_private=true&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harddevinfo&layout=compact&langs_count=8&theme=dark"/>
   <img src="https://github.com/HardDevInfo/harddevinfo/blob/main/assets/github-contribution-grid-snake.svg"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=vue"/> -->
 </a>
 </p>
